@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # 确保这和你仓库的主分支名字一致
+      - main  # huansis.github.io
 
 permissions:
   contents: read
